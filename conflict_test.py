@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+
 print("Main Version")
-=======
+
 print("Conflict version")
->>>>>>> conflict-textbranch
+
+print("Main Version")
+
